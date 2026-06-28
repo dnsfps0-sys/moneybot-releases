@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.9/MoneyBot-Setup-2.0.9.exe",
-  "notes": "Corrige auto-update: installer agora abre corretamente apos o app fechar.",
-  "pub_date": "2026-06-28T04:30:00.000Z",
-  "sha256": "e197f7541828449d89d97a26c65392f3c1b42d200fe0753455b86aa4522d2c07"
+  "version": "2.1.0",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.0/MoneyBot-Setup-2.1.0.exe",
+  "notes": "Conta mae sincroniza no DATABASE com badge MAE. Versao no logo sempre correta. Auto-check bau a cada 10s.",
+  "pub_date": "2026-06-28T05:00:00.000Z",
+  "sha256": "7aaec55683377edfdb3056a5cbd05cad68499dd5f274a24847e8eabb596fc8e5"
 }
