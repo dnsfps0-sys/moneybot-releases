@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.3/MoneyBot-Setup-2.0.3.exe",
-  "notes": "Corrige o fluxo de auto-update: instalador aguarda o app encerrar e forca fechamento quando necessario.",
-  "pub_date": "2026-06-28T01:00:38.252Z",
-  "sha256": "35266c789c85603ed857f386a6d63e1624a299e1cfed75c28d77c50f06c7b201"
+  "version": "2.0.4",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.4/MoneyBot-Setup-2.0.4.exe",
+  "notes": "Adiciona emoji e versao dinamica no logo. Correcoes de seguranca, cache de HWID, deteccao de crash do servidor.",
+  "pub_date": "2026-06-28T02:00:00.000Z",
+  "sha256": "e804e0eee46f718d80f84008cf3beddb7032a0f0dbacb9d0cac4b9e3c2942dfd"
 }
