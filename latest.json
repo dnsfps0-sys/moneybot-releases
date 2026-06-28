@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.5/MoneyBot-Setup-2.0.5.exe",
-  "notes": "Corrige janela de CMD visivel ao instalar atualizacao. Usa PowerShell oculto no lugar de cmd+ping.",
-  "pub_date": "2026-06-28T02:30:00.000Z",
-  "sha256": "5d820d1fc9e1a0b77bb3230720d6be64921006ea80c279bb5ce194e9e6bfb1ae"
+  "version": "2.0.6",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.6/MoneyBot-Setup-2.0.6.exe",
+  "notes": "Corrige versao exibida no logo do painel (sempre reflete a versao real instalada).",
+  "pub_date": "2026-06-28T03:00:00.000Z",
+  "sha256": "9eb2229bf3cba9c2bf6caa8c0c945bd4e5b61e93c38ecbebac65ddb086f9ce36"
 }
