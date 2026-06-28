@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.4/MoneyBot-Setup-2.0.4.exe",
-  "notes": "Adiciona emoji e versao dinamica no logo. Correcoes de seguranca, cache de HWID, deteccao de crash do servidor.",
-  "pub_date": "2026-06-28T02:00:00.000Z",
-  "sha256": "e804e0eee46f718d80f84008cf3beddb7032a0f0dbacb9d0cac4b9e3c2942dfd"
+  "version": "2.0.5",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.5/MoneyBot-Setup-2.0.5.exe",
+  "notes": "Corrige janela de CMD visivel ao instalar atualizacao. Usa PowerShell oculto no lugar de cmd+ping.",
+  "pub_date": "2026-06-28T02:30:00.000Z",
+  "sha256": "5d820d1fc9e1a0b77bb3230720d6be64921006ea80c279bb5ce194e9e6bfb1ae"
 }
