@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.4/MoneyBot-Setup-2.1.4.exe",
-  "notes": "Corrige cards do DATABASE e auto-update.",
-  "pub_date": "2026-06-28T08:30:00.000Z",
-  "sha256": "2214d8789a4ed72ede0135253d3af121019250994e360679e1fc9d9c9d13c523"
+  "version": "2.1.5",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.5/MoneyBot-Setup-2.1.5.exe",
+  "notes": "Corrige cards do DATABASE sem estilo CSS.",
+  "pub_date": "2026-06-28T09:00:00.000Z",
+  "sha256": "0440e4536286345dd365934419c2583725d9e290ee042ca0608325a1ace938f6"
 }
