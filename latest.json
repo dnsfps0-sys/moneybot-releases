@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
   "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.1/MoneyBot-Setup-2.1.1.exe",
-  "notes": "Corrige auto-update: sem janela CMD visivel ao instalar.",
-  "pub_date": "2026-06-28T06:00:00.000Z",
-  "sha256": "c489d1e70a2e22087f3fdd6c316c87fcb4975453b7fafe996a17c61b97bc9de5"
+  "notes": "Corrige auto-update, sincroniza conta mae no DATABASE, versao no logo correta.",
+  "pub_date": "2026-06-28T06:30:00.000Z",
+  "sha256": "b1691797e98bdf46549313eb9256b842d62097699c8322afb16f4669949098fd"
 }
