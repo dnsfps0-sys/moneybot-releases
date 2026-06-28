@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.7/MoneyBot-Setup-2.1.7.exe",
-  "notes": "Setup NSIS silencioso, arquivos ofuscados, sem source exposto.",
-  "pub_date": "2026-06-28T18:00:00.000Z",
-  "sha256": "efbfa4579e461fea1065e28eef15e49a8f120b88004833873068e3c8476570b3"
+  "version": "2.1.8",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.8/MoneyBot-Setup-2.1.8.exe",
+  "notes": "Fix worker, setup NSIS com progresso, JS ofuscado.",
+  "pub_date": "2026-06-28T20:00:00.000Z",
+  "sha256": "f410ffa86c283f2afcf65484795962699191f553766f641ead1e5ce9c980417b"
 }
