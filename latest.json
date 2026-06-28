@@ -1,7 +1,7 @@
 {
-  "version": "2.0.8",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.8/MoneyBot-Setup-2.0.8.exe",
-  "notes": "Auto-verificacao de bau da conta mae a cada 10s. Badge e toast de notificacao ao detectar bau disponivel.",
-  "pub_date": "2026-06-28T04:00:00.000Z",
-  "sha256": "a0367c44e3492bcea6e38dea0e70147475c3c4373fb9a0498ac60855b7ec05dd"
+  "version": "2.0.9",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.9/MoneyBot-Setup-2.0.9.exe",
+  "notes": "Corrige auto-update: installer agora abre corretamente apos o app fechar.",
+  "pub_date": "2026-06-28T04:30:00.000Z",
+  "sha256": "e197f7541828449d89d97a26c65392f3c1b42d200fe0753455b86aa4522d2c07"
 }
