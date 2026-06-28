@@ -1,6 +1,7 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.1/MoneyBot-Setup-2.0.1.exe",
-  "notes": "Flow persistence & auto-resume: retomada automática após crash, reboot ou queda de internet",
-  "pub_date": "2026-06-27T00:00:00.000Z"
+  "version": "2.0.2",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.2/MoneyBot-Setup-2.0.2.exe",
+  "notes": "Teste de auto-update: hotfix de credenciais runtime da licenca antes de iniciar o servidor.",
+  "pub_date": "2026-06-28T00:33:54.900Z",
+  "sha256": "cf733d1376668df263b2449a87f457f6e3d2508497952bec441fe70dc8d1ceca"
 }
