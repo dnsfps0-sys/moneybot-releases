@@ -1,7 +1,7 @@
 {
-  "version": "2.1.6",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.6/MoneyBot-Setup-2.1.6.exe",
-  "notes": "Installer limpo: remove arquivos de dev, key-server e docs do pacote.",
-  "pub_date": "2026-06-28T10:00:00.000Z",
-  "sha256": "428600cb5eafdcbb6d6e3db5ac9bf93bfe2f63ca8dd416807e83bca7edae03c1"
+  "version": "2.1.7",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.7/MoneyBot-Setup-2.1.7.exe",
+  "notes": "Setup NSIS silencioso, arquivos ofuscados, sem source exposto.",
+  "pub_date": "2026-06-28T18:00:00.000Z",
+  "sha256": "efbfa4579e461fea1065e28eef15e49a8f120b88004833873068e3c8476570b3"
 }
