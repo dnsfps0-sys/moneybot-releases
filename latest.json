@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.1/MoneyBot-Setup-2.1.1.exe",
-  "notes": "Corrige auto-update, sincroniza conta mae no DATABASE, versao no logo correta.",
-  "pub_date": "2026-06-28T06:30:00.000Z",
-  "sha256": "b1691797e98bdf46549313eb9256b842d62097699c8322afb16f4669949098fd"
+  "version": "2.1.2",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.2/MoneyBot-Setup-2.1.2.exe",
+  "notes": "Corrige cards do DATABASE, badge MAE e filtro MAE/FILHA.",
+  "pub_date": "2026-06-28T07:00:00.000Z",
+  "sha256": "31b3d1576a679280c51bf80d868207f5567e21dbb1a393990b30d7e6b3b38b5d"
 }
