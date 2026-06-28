@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.6/MoneyBot-Setup-2.0.6.exe",
-  "notes": "Corrige versao exibida no logo do painel (sempre reflete a versao real instalada).",
-  "pub_date": "2026-06-28T03:00:00.000Z",
-  "sha256": "9eb2229bf3cba9c2bf6caa8c0c945bd4e5b61e93c38ecbebac65ddb086f9ce36"
+  "version": "2.0.7",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.7/MoneyBot-Setup-2.0.7.exe",
+  "notes": "Corrige emoji no logo, div extra na sidebar e versao exibida no painel.",
+  "pub_date": "2026-06-28T03:30:00.000Z",
+  "sha256": "bca99e5ff803b9b714b2e0a2be001a87856dd80c3ddcd0bd8e81b89aa3cfa77e"
 }
