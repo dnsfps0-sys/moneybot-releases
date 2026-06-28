@@ -1,7 +1,7 @@
 {
-  "version": "2.1.3",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.3/MoneyBot-Setup-2.1.3.exe",
-  "notes": "Corrige auto-update: path do installer mais confiavel, VBScript com CRLF.",
-  "pub_date": "2026-06-28T08:00:00.000Z",
-  "sha256": "d61a333dd95ff8371541ba4d4ffda486209089ec9ece913b5b8a14dff5c01e10"
+  "version": "2.1.4",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.4/MoneyBot-Setup-2.1.4.exe",
+  "notes": "Corrige cards do DATABASE e auto-update.",
+  "pub_date": "2026-06-28T08:30:00.000Z",
+  "sha256": "2214d8789a4ed72ede0135253d3af121019250994e360679e1fc9d9c9d13c523"
 }
