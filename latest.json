@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.2/MoneyBot-Setup-2.0.2.exe",
-  "notes": "Teste de auto-update: hotfix de credenciais runtime da licenca antes de iniciar o servidor.",
-  "pub_date": "2026-06-28T00:33:54.900Z",
-  "sha256": "cf733d1376668df263b2449a87f457f6e3d2508497952bec441fe70dc8d1ceca"
+  "version": "2.0.3",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.0.3/MoneyBot-Setup-2.0.3.exe",
+  "notes": "Corrige o fluxo de auto-update: instalador aguarda o app encerrar e forca fechamento quando necessario.",
+  "pub_date": "2026-06-28T01:00:38.252Z",
+  "sha256": "35266c789c85603ed857f386a6d63e1624a299e1cfed75c28d77c50f06c7b201"
 }
