@@ -1,7 +1,7 @@
 {
-  "version": "2.1.9",
-  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.1.9/MoneyBot-Setup-2.1.9.exe",
-  "notes": "Atualizacoes no painel e estilos.",
-  "pub_date": "2026-06-28T20:30:00.000Z",
-  "sha256": "3492ba075a793a6b2203e9f80518e18af5398b2397561d89585b179a092c2796"
+  "version": "2.2.0",
+  "url": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.2.0/MoneyBot-Setup-2.2.0.exe",
+  "notes": "Seguranca: validacao SHA256 do installer antes de executar.",
+  "pub_date": "2026-06-28T22:00:00.000Z",
+  "sha256": "67bf672faaacd221dd9a52d9a1a137ccbc8958b82436836def07c2be2ebb0e75"
 }
