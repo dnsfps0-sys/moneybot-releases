@@ -1,7 +1,7 @@
 {
-  "version": "2.2.8",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.2.8/MoneyBot-2.2.8.zip",
-  "zipSha256": "043b2d54fbf37afb783ad0c7faf27976e65895d6c93bbb423e39c6d2217f48d0",
-  "notes": "MoneyBot v2.2.8",
-  "pub_date": "2026-07-01T01:50:01.410Z"
+  "version": "2.2.9",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.2.9/MoneyBot-2.2.9.zip",
+  "zipSha256": "9121e2a6c1c8c34ed71ccbd598ea68f8b642cafb1f251b1bc45b98016889cfbc",
+  "notes": "MoneyBot v2.2.9",
+  "pub_date": "2026-07-01T02:04:07.693Z"
 }
