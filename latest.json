@@ -1,7 +1,7 @@
 {
-  "version": "2.5.9",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.5.9/MoneyBot-2.5.9.zip",
-  "zipSha256": "2b1685d80b960460dccf34a959838e9f42247695c72ef5a9bc340a679e29ad02",
-  "notes": "fix: corrige crash no startup causado por chalk ESM-only em rollover.jsc e ui.jsc",
-  "pub_date": "2026-07-08T00:38:02.498Z"
+  "version": "2.6.0",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v2.6.0/MoneyBot-2.6.0.zip",
+  "zipSha256": "0adc22e92bd71f18c20ca584053fb2c964804f72b34ff83f71ad5f2bf547f03e",
+  "notes": "MoneyBot v2.6.0",
+  "pub_date": "2026-07-08T02:44:40.025Z"
 }
