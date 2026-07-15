@@ -1,7 +1,7 @@
 {
-  "version": "4.7.3",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v4.7.3/MoneyBot-4.7.3.zip",
-  "zipSha256": "c5295a11778928ac14d4bf394c33fa00e05c7ff3404dcd5dab27435d987267e0",
-  "notes": "MoneyBot v4.7.3",
-  "pub_date": "2026-07-15T23:41:35.153Z"
+  "version": "4.7.4",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v4.7.4/MoneyBot-4.7.4.zip",
+  "zipSha256": "63e9d363463d3d234e5ea8319bda6520fc1771c8ad878ea5b5f4fe624e87ecff",
+  "notes": "MoneyBot v4.7.4",
+  "pub_date": "2026-07-15T23:45:36.346Z"
 }
