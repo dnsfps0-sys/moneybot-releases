@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.1/MoneyBot-1.0.1.zip",
-  "zipSha256": "569afbb2b11c89babd0ec392287d9b667d953a24c9b4261632aac8ac81ea28e1",
-  "notes": "fix RTP persist + Xoc Dia even/odd stats",
-  "pub_date": "2026-07-16T19:14:04.176Z"
+  "version": "1.0.2",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.2/MoneyBot-1.0.2.zip",
+  "zipSha256": "011217228e7a4fd12c619949a76c8de1cc0b35adbf27258923592d293a01a35e",
+  "notes": "Correção de inicialização do servidor; melhorias de empacotamento e segurança",
+  "pub_date": "2026-08-13T22:40:30.058Z"
 }
