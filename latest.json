@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.4/MoneyBot-1.0.4.zip",
-  "zipSha256": "f61070f75f241972858c1990327c66275bd77d58babf115be982b8d43aedd5c1",
-  "notes": "Pipeline de proteção completo: bytecode V8 para lib/games, ofuscação de panel/*.js e src/updater, bloqueio de logs/data no pacote",
-  "pub_date": "2026-08-14T13:36:06.840Z"
+  "version": "1.0.5",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.5/MoneyBot-1.0.5.zip",
+  "zipSha256": "1c437fd64c2b21730e03c16004bf1f8732147b29a507e1b606a1c3a1f304d906",
+  "notes": "fix(updater): mirrorDir — remove stale files on update; post-copy integrity verification",
+  "pub_date": "2026-08-14T14:58:19.474Z"
 }
