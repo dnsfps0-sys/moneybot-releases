@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.3/MoneyBot-1.0.3.zip",
-  "zipSha256": "2b19ce7cf0995e01cfdd6e435def0d0b8f0970ef3b6e35caee7fc00efbcca367",
-  "notes": "Busca de jogos pesquisável; correções de acessibilidade e compatibilidade do combobox",
-  "pub_date": "2026-08-14T03:36:29.180Z"
+  "version": "1.0.4",
+  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.4/MoneyBot-1.0.4.zip",
+  "zipSha256": "f61070f75f241972858c1990327c66275bd77d58babf115be982b8d43aedd5c1",
+  "notes": "Pipeline de proteção completo: bytecode V8 para lib/games, ofuscação de panel/*.js e src/updater, bloqueio de logs/data no pacote",
+  "pub_date": "2026-08-14T13:36:06.840Z"
 }
