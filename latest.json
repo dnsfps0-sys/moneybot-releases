@@ -1,7 +1,1 @@
-{
-  "version": "1.0.5",
-  "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.5/MoneyBot-1.0.5.zip",
-  "zipSha256": "1c437fd64c2b21730e03c16004bf1f8732147b29a507e1b606a1c3a1f304d906",
-  "notes": "fix(updater): mirrorDir — remove stale files on update; post-copy integrity verification",
-  "pub_date": "2026-08-14T14:58:19.474Z"
-}
+
