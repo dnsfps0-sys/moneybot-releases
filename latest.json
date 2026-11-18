@@ -1,7 +1,7 @@
 {
   "version": "1.0.69",
   "zipUrl": "https://github.com/dnsfps0-sys/moneybot-releases/releases/download/v1.0.69/MoneyBot-1.0.69.zip",
-  "zipSha256": "4448d1dde2260e762259ba0badfcc2398e1cbbbbac6f7ecdf942e2ca4abd8e90",
-  "notes": "Bonus: rollover/jogo opcionais, PIX automatico no resgate, cards ao vivo, S.SAQUE e totais. Conta Mae: jogar manual e saldo ao vivo.",
-  "pub_date": "2026-11-18T20:57:22.285Z"
+  "zipSha256": "cec762adab5491d5101fa296155a2621e6165e3361abc452118c181f2c11a81b",
+  "notes": "Bonus: rollover/jogo opcionais, PIX automatico no resgate, cards ao vivo, S.SAQUE, totais clicaveis e motivo de erro/sem bonus no card. Conta Mae: jogar manual e saldo ao vivo.",
+  "pub_date": "2026-11-18T21:05:51.118Z"
 }
